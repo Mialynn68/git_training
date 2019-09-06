@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Hier ist weiterer Text zum Testen!
-Und jetzt kommt noch mehr Text hinzu. Und noch mehr.
+Now I changed in ad Patrick branch.
