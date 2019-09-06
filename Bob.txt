@@ -1,1 +1,2 @@
 Hi! This is some text about Bob.
+Jetzt kommt auch hier neuer Text hinzu.
